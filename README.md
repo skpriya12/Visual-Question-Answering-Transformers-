@@ -1,4 +1,4 @@
-# Visual-Question-Answering-Transformers-
+# Visual Q&A using Transformers
 
 This repository provides an AI-powered Visual Question Answering (VQA) system using the BLIP (Bootstrapped Language-Image Pretraining) model from Salesforce. The model takes an image and a natural language question as input and generates an answer based on the image's content.
 
